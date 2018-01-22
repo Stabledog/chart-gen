@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python2
 
 # Remove 2.x references in PYTHONPATH!
 # Install python-docx with pip (pip3 install --pre python-docx)
