@@ -1,3 +1,9 @@
 ~$*
+~$*
 /chartex-1/chartex-1/obj
 /chartex-1/.vs/chartex-1/v15/Server/sqlite3/db.lock
+.DS_Store
+.vs
+bin
+obj
+*secret.json

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("chartex-1")]
+[assembly: AssemblyTitle("google-sheet-api-test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("chartex-1")]
+[assembly: AssemblyProduct("google-sheet-api-test")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2a6de354-3c24-4402-a0e1-760a026a7943")]
+[assembly: Guid("6804c286-1aa7-4dc5-bca3-b975b0aa395f")]
 
 // Version information for an assembly consists of the following four values:
 //
