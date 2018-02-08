@@ -7,6 +7,7 @@
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
+        PatientDataService patientDataService=new PatientDataService();
         /// <summary>
         /// Clean up any resources being used.
         /// </summary>
@@ -31,6 +32,8 @@
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Text = "Form1";
+
+            this.patientDataService.GetPatients();
         }
 
         #endregion

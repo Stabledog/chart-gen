@@ -19,7 +19,7 @@ namespace chartex_1
         static string[] Scopes = { SheetsService.Scope.SpreadsheetsReadonly };
         static string ApplicationName = "Google Sheets API .NET Quickstart";
 
-        void GetPatients()
+        public void GetPatients()
         {
             UserCredential credential;
 
