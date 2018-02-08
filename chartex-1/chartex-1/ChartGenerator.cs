@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace chartex_1
 {
-    public partial class Form1 : Form
+    public partial class ChartGenerator : Form
     {
-        public Form1()
+        public ChartGenerator()
         {
             InitializeComponent();
         }

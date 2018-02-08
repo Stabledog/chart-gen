@@ -1,6 +1,6 @@
 ﻿namespace chartex_1
 {
-    partial class Form1
+    partial class ChartGenerator
     {
         /// <summary>
         /// Required designer variable.
